@@ -32,12 +32,19 @@ compare numbers across data sources.
     + Not entirely clear if these are entirely confirmed cases, or
       confirmed + probable
 
+Note the big spike in daily deaths for the JHU data for New York State
+for April 16-17, which I believe is due to New York City revising
+their COVID-19 death numbers around April 14 (see [New York Times
+article]).
+
 ## Contents
 
 - `nyt-jhu-comparison.R` compares daily incident deaths and cumulative
   deaths from NYT and JHU, aggregated at the state level.  I restrict
   comparisons to dates after which a state has exceeded a per-capita
-  mortality rate of 3 per 10 million residents.
+  mortality rate of 3 per 10 million residents.  Note that, due to
+  format differences in reported data, I have to convert from daily
+  deaths to cumulative deaths for NYT, and vice versa for JHU. 
 - `figures/` contains figures comparing numbers of daily deaths and
   cumulative deaths between data sources for several states.  Code for
   these figures can be found in `nyt-jhu-comparison.R`.
@@ -59,3 +66,4 @@ The University of Texas at Austin
 [JHU]: https://github.com/CSSEGISandData/COVID-19
 [latest]: https://covid-19.tacc.utexas.edu/media/filer_public/87/63/87635a46-b060-4b5b-a3a5-1b31ab8e0bc6/ut_covid-19_mortality_forecasting_model_latest.pdf
 [preprint]: https://www.medrxiv.org/content/10.1101/2020.04.16.20068163v1
+[New York Times article]: https://www.nytimes.com/2020/04/14/nyregion/new-york-coronavirus-deaths.html?referringSource=articleShare
