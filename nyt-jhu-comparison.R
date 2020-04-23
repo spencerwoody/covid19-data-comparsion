@@ -141,6 +141,7 @@ glimpse(nyt %>% filter(cumulative_deaths >= 1))
                                         #      Compare data for one state     #
 ###############################################################################
 
+## Stack data sources
 data_both <- rbind(
   jhu %>% mutate(Source = "JHU"),
   nyt %>% mutate(Source = "NYT")
