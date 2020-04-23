@@ -34,8 +34,9 @@ compare numbers across data sources.
 
 Note the big spike in daily deaths for the JHU data for New York State
 for April 16-17, which I believe is due to New York City revising
-their COVID-19 death numbers around April 14 (see [New York Times
-article]).
+their COVID-19 death numbers around April 14 to reflect suspected /
+probable deaths (see [New York Times article]), whereas the NYT
+appears to have strictly confirmed deaths.
 
 ## Contents
 
