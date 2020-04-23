@@ -1,0 +1,52 @@
+FIPS,Name,Abbreviation,Alphacount
+01,Alabama,AL,1
+02,Alaska,AK,2
+04,Arizona,AZ,3
+05,Arkansas,AR,4
+06,California,CA,5
+08,Colorado,CO,6
+09,Connecticut,CT,7
+10,Delaware,DE,8
+11,District of Columbia,DC,9
+12,Florida,FL,10
+13,Georgia,GA,11
+15,Hawaii,HI,12
+16,Idaho,ID,13
+17,Illinois,IL,14
+18,Indiana,IN,15
+19,Iowa,IA,16
+20,Kansas,KS,17
+21,Kentucky,KY,18
+22,Louisiana,LA,19
+23,Maine,ME,20
+24,Maryland,MD,21
+25,Massachusetts,MA,22
+26,Michigan,MI,23
+27,Minnesota,MN,24
+28,Mississippi,MS,25
+29,Missouri,MO,26
+30,Montana,MT,27
+31,Nebraska,NE,28
+32,Nevada,NV,29
+33,New Hampshire,NH,30
+34,New Jersey,NJ,31
+35,New Mexico,NM,32
+36,New York,NY,33
+37,North Carolina,NC,34
+38,North Dakota,ND,35
+39,Ohio,OH,36
+40,Oklahoma,OK,37
+41,Oregon,OR,38
+42,Pennsylvania,PA,39
+44,Rhode Island,RI,40
+45,South Carolina,SC,41
+46,South Dakota,SD,42
+47,Tennessee,TN,43
+48,Texas,TX,44
+49,Utah,UT,45
+50,Vermont,VT,46
+51,Virginia,VA,47
+53,Washington,WA,48
+54,West Virginia,WV,49
+55,Wisconsin,WI,50
+56,Wyoming,WY,51
