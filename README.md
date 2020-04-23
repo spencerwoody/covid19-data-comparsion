@@ -41,6 +41,7 @@ compare numbers across data sources.
 - `figures/` contains figures comparing numbers of daily deaths and
   cumulative deaths between data sources for several states.  Code for
   these figures can be found in `nyt-jhu-comparison.R`.
+- `data/` contains misc. data for states and other geographic aggregations. 
 
 ## Contact
 
